@@ -23,7 +23,3 @@
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.org/)
 
----
-
-### Статистика GitHub
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniarKamaev&layout=compact&theme=radical)
